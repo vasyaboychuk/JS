@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson3. Js">
-      <change afterPath="$PROJECT_DIR$/lesson4/hw4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/main.js" afterDir="false" />
+    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson4. Js">
+      <change afterPath="$PROJECT_DIR$/lesson4additinally/hw4add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4additinally/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson4additinally/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,16 +35,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +56,9 @@
       <workItem from="1658490877033" duration="8596000" />
       <workItem from="1658916249973" duration="5517000" />
       <workItem from="1659346488219" duration="10919000" />
-      <workItem from="1659527381631" duration="4829000" />
+      <workItem from="1659527381631" duration="9853000" />
+      <workItem from="1659619913275" duration="5435000" />
+      <workItem from="1659697450651" duration="7483000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -79,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659352783598</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add lesson4. Js">
+      <created>1659532555162</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659532555162</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +110,7 @@
     <MESSAGE value="add lesson1 Js" />
     <MESSAGE value="add lesson2 Js" />
     <MESSAGE value="add lesson3. Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson3. Js" />
+    <MESSAGE value="add lesson4. Js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson4. Js" />
   </component>
 </project>

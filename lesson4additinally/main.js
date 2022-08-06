@@ -267,6 +267,14 @@ let books = [
 // }
 //         console.log(max)
 // - знайти книжку/ки які писали 2 автори
+let max = books[0];
+for (const book of books) {
+    if (book.authors.length === 2){
+        max = book;
+        console.log(max);
+    }
+}
+
 
 // - знайти книжку/ки які писав 1 автор
 //

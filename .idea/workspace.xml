@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson4. Js">
-      <change afterPath="$PROJECT_DIR$/lesson4additinally/hw4add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4additinally/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4additinally/main.js" afterDir="false" />
+    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson4(additional). Js">
+      <change afterPath="$PROJECT_DIR$/lesson5/hw5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson4additinally/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4additinally/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -58,7 +58,9 @@
       <workItem from="1659346488219" duration="10919000" />
       <workItem from="1659527381631" duration="9853000" />
       <workItem from="1659619913275" duration="5435000" />
-      <workItem from="1659697450651" duration="7483000" />
+      <workItem from="1659697450651" duration="9946000" />
+      <workItem from="1659796129341" duration="4389000" />
+      <workItem from="1659808260584" duration="4202000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -88,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659532555162</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add lesson4(additional). Js">
+      <created>1659714876904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659714876904</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +120,7 @@
     <MESSAGE value="add lesson2 Js" />
     <MESSAGE value="add lesson3. Js" />
     <MESSAGE value="add lesson4. Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson4. Js" />
+    <MESSAGE value="add lesson4(additional). Js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson4(additional). Js" />
   </component>
 </project>

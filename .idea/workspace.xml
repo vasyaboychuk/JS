@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson5. Js">
-      <change afterPath="$PROJECT_DIR$/lesson5additionally/hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5additionally/main.js" afterDir="false" />
+    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson5 additional. Js">
+      <change afterPath="$PROJECT_DIR$/lesson6/hw6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <workItem from="1659697450651" duration="9946000" />
       <workItem from="1659796129341" duration="4389000" />
       <workItem from="1659808260584" duration="5696000" />
-      <workItem from="1659964310234" duration="12278000" />
+      <workItem from="1659964310234" duration="23047000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -105,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659812773225</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add lesson5 additional. Js">
+      <created>1660054671533</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660054671533</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +137,7 @@
     <MESSAGE value="add lesson4. Js" />
     <MESSAGE value="add lesson4(additional). Js" />
     <MESSAGE value="add lesson5. Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson5. Js" />
+    <MESSAGE value="add lesson5 additional. Js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson5 additional. Js" />
   </component>
 </project>

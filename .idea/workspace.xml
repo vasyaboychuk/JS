@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson5 additional. Js">
-      <change afterPath="$PROJECT_DIR$/lesson6/hw6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6/main.js" afterDir="false" />
+    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson 8. Js">
+      <change afterPath="$PROJECT_DIR$/lesson6additionally/hwadd6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6additionally/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/hw8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +63,9 @@
       <workItem from="1659697450651" duration="9946000" />
       <workItem from="1659796129341" duration="4389000" />
       <workItem from="1659808260584" duration="5696000" />
-      <workItem from="1659964310234" duration="23047000" />
+      <workItem from="1659964310234" duration="24263000" />
+      <workItem from="1660213859197" duration="10373000" />
+      <workItem from="1660738281832" duration="7410000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -112,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660054671533</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add lesson 6. Js">
+      <created>1660144840453</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660144840453</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +149,8 @@
     <MESSAGE value="add lesson4(additional). Js" />
     <MESSAGE value="add lesson5. Js" />
     <MESSAGE value="add lesson5 additional. Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson5 additional. Js" />
+    <MESSAGE value="add lesson 6. Js" />
+    <MESSAGE value="add lesson 8. Js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson 8. Js" />
   </component>
 </project>

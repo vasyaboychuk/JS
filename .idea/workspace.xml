@@ -4,8 +4,8 @@
     <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson 8. Js">
       <change afterPath="$PROJECT_DIR$/lesson6additionally/hwadd6.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lesson6additionally/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/hw8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8additionally/hw8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson8additionally/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +65,8 @@
       <workItem from="1659808260584" duration="5696000" />
       <workItem from="1659964310234" duration="24263000" />
       <workItem from="1660213859197" duration="10373000" />
-      <workItem from="1660738281832" duration="7410000" />
+      <workItem from="1660738281832" duration="8707000" />
+      <workItem from="1660823317836" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660144840453</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add lesson 8. Js">
+      <created>1660746374611</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660746374611</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

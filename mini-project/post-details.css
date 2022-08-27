@@ -1,0 +1,64 @@
+/*post-details.html - блок з інфою про пост зверху. Коментарі - по 4 в ряд.*/
+/*
+Всі елементи котрі характеризують users, posts,
+ comments візуалізувати, так, щоб було видно що це блоки (дати фон. марджини і тд)*/
+.mainBlock {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Georgia, serif;
+}
+.header {
+    width: 90%;
+    /*min-height: 400px;*/
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.smallDiv2 {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.btnDiv3 {
+    width: 100%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.btnDiv3 > button {
+    cursor: pointer;
+    color: #fff;
+    background: #04aa6d;
+    box-shadow: 0 2px #999;
+    border-radius: 5px;
+    border: none;
+}
+
+.btnDiv3 > button:hover {
+    background: #3e8e41;
+}
+
+.commentDiv {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    border: 2px black solid;
+    margin-bottom: 10px;
+    margin-top: 10px;
+
+}
+

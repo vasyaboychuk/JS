@@ -1,0 +1,99 @@
+/*user-details.html - блок з інфою про user зверху сторінки.
+Кнопка нижчє, на 90% ширини сторінки, по центру.*/
+body {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Georgia, serif;
+}
+.wrapper {
+    width: 90%;
+    height: min-content;
+}
+
+.user-info {
+    width: 100%;
+    height: min-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 2px solid black;
+    box-sizing: border-box;
+
+
+}
+
+.btnDiv > button {
+    width: 90%;
+    cursor: pointer;
+    color: #fff;
+    background: #04aa6d;
+    box-shadow: 0 2px #999;
+    border-radius: 5px;
+    border: none;
+}
+
+.btnDiv > button:hover {
+    background: #3e8e41;
+}
+
+
+.btnDiv {
+    display: flex;
+    justify-content: center;
+}
+
+.wrap2 {
+    width: 90%;
+    height: min-content;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 10px;
+    row-gap: 10px;
+    margin-top: 10px;
+
+}
+
+.postDiv {
+    min-height: 170px;
+    width: 18%;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-sizing: border-box;
+
+
+}
+
+.smallDiv {
+    width: 100%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.btnDiv2 {
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+
+}
+
+.btnDiv2 > button {
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    background: #04aa6d;
+    border: none;
+    box-shadow: 0 2px #999;
+}
+
+.btnDiv2 > button:hover {
+    background: #3e8e41;
+}

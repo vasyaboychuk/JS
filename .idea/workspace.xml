@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson 8add. Js">
-      <change afterPath="$PROJECT_DIR$/lesson9/hw9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9/main.js" afterDir="false" />
+    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add lesson 9. Js">
+      <change afterPath="$PROJECT_DIR$/mini-project/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user-details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini-project/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -65,7 +72,10 @@
       <workItem from="1660213859197" duration="10373000" />
       <workItem from="1660738281832" duration="8707000" />
       <workItem from="1660823317836" duration="4056000" />
-      <workItem from="1661174659590" duration="8080000" />
+      <workItem from="1661174659590" duration="8401000" />
+      <workItem from="1661428171855" duration="7189000" />
+      <workItem from="1661442804061" duration="5817000" />
+      <workItem from="1661500952634" duration="29525000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -144,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660844840411</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add lesson 9. Js">
+      <created>1661183517933</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661183517933</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +190,7 @@
     <MESSAGE value="add lesson 6. Js" />
     <MESSAGE value="add lesson 8. Js" />
     <MESSAGE value="add lesson 8add. Js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson 8add. Js" />
+    <MESSAGE value="add lesson 9. Js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson 9. Js" />
   </component>
 </project>

@@ -1,0 +1,65 @@
+/*index.html - всі блоки з user - по 2 в рядок. кнопки/аосилвння розташувати під інформацією про user.*/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    width: 400px;
+    min-height: min-content;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+
+
+}
+
+.user {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.smallDiv {
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.btnDiv {
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btnDiv > button {
+    cursor: pointer;
+    color: #fff;
+    background: #04aa6d;
+    border: none;
+    box-shadow: 0 2px #999;
+
+}
+
+.btnDiv > button:hover {
+    background: #3e8e41;
+}
+
+
+
+
+
+
+

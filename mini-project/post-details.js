@@ -45,15 +45,14 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${id}`)
                     .then(comments => {
                             let commentsDiv = document.createElement('div');
                             commentsDiv.classList.add('commentsDiv')
-                            commentsDiv.innerText = 'All comments'
                             header.appendChild(commentsDiv);
-
+                            let count = 0;
                             for (const comment of comments) {
+                                count += 1;
                                 let commentDiv = document.createElement('div');
-
                                 commentDiv.classList.add('commentDiv');
                                 commentsDiv.appendChild(commentDiv);
-                                commentDiv.append(comment.body);
+                                commentDiv.append(`${count}.  "${comment.body}"`);
                             }
 
                         }

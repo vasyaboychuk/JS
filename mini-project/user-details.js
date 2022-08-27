@@ -18,28 +18,52 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
             infoDiv.classList.add('user-info');
             mainDiv.appendChild(infoDiv);
 
+            let div1 = document.createElement('div');
+            infoDiv.appendChild(div1)
 
-            infoDiv.innerHTML = `     <h2>${user.id} - ${user.name}</h2>
-                                <h3>Username: ${user.username}</h3>
-                                <h3>Email: ${user.email}</h3>
-                                <ul><h3>Address:</h3>
-                                <li>Street: ${user.address.street}</li>
-                                <li>Suite: ${user.address.suite}</li>
-                                <li>City: ${user.address.city}</li>
-                                <li>Zipcode: ${user.address.city}</li>
-                                <ul><h3>Geo:</h3>
-                                <li>lat: ${user.address.geo.lat}</li>
-                                <li>lng: ${user.address.geo.lng}</li>
-                               </ul>
-                               </ul>
-                                 <h3>Phone: ${user.phone}</h3>
-                                 <h3>Website: ${user.website}</h3>
-                                 <ul><h3>Company</h3>
-                                 <li>Name: ${user.company.name}</li>
-                                 <li>Catch phrase: ${user.company.catchPhrase}</li>
+
+
+             infoDiv.innerHTML = `     <h2>${user.id} - ${user.name}</h2>
+                                 <h3>Username: ${user.username}</h3>
+                                 <h3>Email: ${user.email}</h3>
+                                 <ul><h3>Address:</h3>
+                                 <li>Street: ${user.address.street}</li>
+                                 <li>Suite: ${user.address.suite}</li>
+                                 <li>City: ${user.address.city}</li>
+                                 <li>Zipcode: ${user.address.city}</li>
+                                 <ul><h3>Geo:</h3>
+                                 <li>lat: ${user.address.geo.lat}</li>
+                                 <li>lng: ${user.address.geo.lng}</li>
+                                </ul>
+                                </ul>
+                                  <h3>Phone: ${user.phone}</h3>
+                                  <h3>Website: ${user.website}</h3>
+                                  <ul><h3>Company</h3>
+                                  <li>Name: ${user.company.name}</li>
+                                  <li>Catch phrase: ${user.company.catchPhrase}</li>
                                  <li>Bs: ${user.company.bs}</li>
-                                 </ul>`
+                                  </ul>`
 
+        // function explorer(element) {
+        //     for (const key in element) {
+        //         if (typeof element[key] !== 'object') {
+        //             let microDiv = document.createElement('div');
+        //             microDiv.classList.add('microDiv');
+        //
+        //             let p = document.createElement('p');
+        //             p.append(`${key}:  ${element[key]}`);
+        //             microDiv.appendChild(p);
+        //
+        //             infoDiv.appendChild(microDiv);
+        //
+        //         } else {
+        //
+        //             explorer(element[key]);
+        //         }
+        //
+        //     }
+        // }
+        // explorer(user);
 
             let btn = document.createElement('button');
             btn.innerText = 'post of current user';

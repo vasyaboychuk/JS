@@ -24,6 +24,10 @@
     flex-direction: column;
     border: 2px solid black;
     border-radius: 5px;
+    background: #cce1f4;
+    color: #af6d55;
+
+
 }
 
 .smallDiv {
@@ -32,7 +36,7 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    font-family: cursive;
+    font-family: Georgia, serif;
     font-size: 15px;
 }
 
@@ -47,14 +51,15 @@
 .btnDiv > button {
     cursor: pointer;
     color: #fff;
-    background: #04aa6d;
+    background: #225a82;
     border: none;
     box-shadow: 0 2px #999;
 
 }
 
 .btnDiv > button:hover {
-    background: #3e8e41;
+    background: #d6ccac;
+
 }
 
 

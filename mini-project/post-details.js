@@ -58,6 +58,7 @@ fetch(`https://jsonplaceholder.typicode.com/posts/${id}`)
                         }
                     );
 
+                btn.disabled = true;
             };
         }
     );

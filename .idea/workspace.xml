@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="add mini-project">
+    <list default="true" id="ef78b301-f8d6-4254-9fef-0d6fa0845e91" name="Changes" comment="change something">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-project/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-project/post-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project/post-details.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-project/post-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project/post-details.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini-project/user-details.css" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project/user-details.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini-project/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/mini-project/user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +67,7 @@
       <workItem from="1661174659590" duration="8401000" />
       <workItem from="1661428171855" duration="7189000" />
       <workItem from="1661442804061" duration="5817000" />
-      <workItem from="1661500952634" duration="40077000" />
+      <workItem from="1661500952634" duration="42477000" />
     </task>
     <task id="LOCAL-00001" summary="add lesson1 js">
       <created>1658566122295</created>
@@ -164,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661606352828</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="change something">
+      <created>1661632937708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661632937708</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +198,7 @@
     <MESSAGE value="add lesson 8add. Js" />
     <MESSAGE value="add lesson 9. Js" />
     <MESSAGE value="add mini-project" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mini-project" />
+    <MESSAGE value="change something" />
+    <option name="LAST_COMMIT_MESSAGE" value="change something" />
   </component>
 </project>

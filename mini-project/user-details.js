@@ -43,7 +43,6 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
                                   <li>Catch phrase: ${user.company.catchPhrase}</li>
                                  <li>Bs: ${user.company.bs}</li>
                                   </ul>`
-
         // function explorer(element) {
         //     for (const key in element) {
         //         if (typeof element[key] !== 'object') {
@@ -59,6 +58,7 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
         //         } else {
         //
         //             explorer(element[key]);
+        //
         //         }
         //
         //     }
@@ -112,6 +112,7 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
                             }
                         }
                     );
+                btn.disabled = true;
             };
         }
     );
